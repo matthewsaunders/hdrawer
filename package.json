@@ -1,0 +1,11 @@
+{
+  "name": "hdrawer",
+  "version": "0.0.1",
+  "description": "A package to make horizontal drawers for your content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Saunders (@msaun008)",
+  "license": "MIT"
+}
